@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body{
+	background-color:violet
+}
+.container{
+	display:flex;
+	padding:20px;
+	justify-content:flex-start;
+	column-gap:10px
+	
+}
+button{
+	padding:10px;
+	color: white;
+	background-color:darkviolet;
+	width:15%
+}
